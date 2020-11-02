@@ -2,7 +2,7 @@
 ## Data 
 - preclinical: a collection of drugs that are positive in vitro.  
 - clinical: a collection of clinical trials for COVID-19.  
-- omics: a collection of COVID transcriptomic profiles.  
+- omics: a collection of COVID transcriptomic profiles.  A compiled expression matrix could be downloaded [here](https://chenlab-data-public.s3-us-west-2.amazonaws.com/COVID19/COVID_HUMANPROCESS_932.RData). 
 ## Drug Repurposing
 - code (https://github.com/Bin-Chen-Lab/wars)  
 - manuscript  
