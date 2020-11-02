@@ -1,4 +1,8 @@
 Chen lab COVID Research
+# Data 
+- preclinical: a collection of drugs that are positive from in vitro experiments.  
+- clinical: a collection of clinical trials for COVID-19.  
+- omics: a collection of COVID transcriptomic profiles.  
 # Drug Repurposing
 code (https://github.com/Bin-Chen-Lab/wars)  
 manuscript  
